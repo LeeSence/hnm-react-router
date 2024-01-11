@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "/니트_스웨터.jpeg",
+      "title": "니트 스웨터",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "Xl"]
+    },
+    {
+      "id": 1,
+      "img": "/슬림핏_하이웨이스트_앵클_진.jpeg",
+      "title": "슬림핏 맘 하이웨이스트 앵클 진",
+      "price": 34900,
+      "choice": true,
+      "new": true,
+      "size": ["32", "34", "36", "38", "40"]
+    },
+    {
+      "id": 2,
+      "img": "/와이드_하이웨이스트_진.jpeg",
+      "title": "와이드 하이웨이스트 진",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["32", "34", "36", "38", "40"]
+    },
+    {
+      "id": 3,
+      "img": "/리브니트_바디콘_드레스.jpeg",
+      "title": "리브니트 바디콘 드레스",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 4,
+      "img": "/프릴_디테일_블라우스.jpeg",
+      "title": "프릴 디테일 블라우스",
+      "price": 39900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+
+    {
+      "id": 5,
+      "img": "/루즈핏_리브니트_스웨터.jpeg",
+      "title": "루즈핏 리브니트 스웨터",
+      "price": 59900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 6,
+      "img": "/더블_브레스티드_재킷.jpeg",
+      "title": "더블 브레스티드 재킷",
+      "price": 69900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 7,
+      "img": "/오버사이즈_집업_후디.jpeg",
+      "title": "오버사이즈 집업 후디",
+      "price": 29900,
+      "choice": false,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 8,
+      "img": "/퍼프_슬리브_클롭트_탑.jpeg",
+      "title": "퍼프 슬리브 크롭트 탑",
+      "price": 15900,
+      "choice": true,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 9,
+      "img": "/오버사이즈_프린트_티셔츠.jpeg",
+      "title": "오버사이즈 프린트 티셔츠",
+      "price": 19900,
+      "choice": false,
+      "new": true,
+      "size": ["XXS", "XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 10,
+      "img": "/와이드_트윌_팬츠.jpeg",
+      "title": "와이드 트윌 팬츠",
+      "price": 19900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 11,
+      "img": "/플레어_로라이즈_진.jpeg",
+      "title": "플레어 로라이즈 진",
+      "price": 29900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "img": "/루즈핏_바시티_재킷.jpeg",
+      "title": "루즈핏 바시티 재킷",
+      "price": 43900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 13,
+      "img": "/릴랙스핏_진.jpeg",
+      "title": "릴랙스핏 진",
+      "price": 54900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    }
+  ]
+}
